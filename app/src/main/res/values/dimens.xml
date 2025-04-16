@@ -3,4 +3,5 @@
     <dimen name="BtnCornerRadius">14dp</dimen>
     <dimen name="BtnStroke">1dp</dimen>
     <dimen name="search_padding">5dp</dimen>
+    <dimen name="divider_height">5dp</dimen>
 </resources>

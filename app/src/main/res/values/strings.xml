@@ -17,7 +17,7 @@
     <string name="onBoardScn3_title">Real-Time Monitoring</string>
     <string name="onBoardScn3_desc">Get instant notifications about your VM\'s performance, status changes, and resource usage. Stay informed wherever you are.</string>
     <string name="APPName">VM Manager</string>
-    <string name="Search">Search</string>
+    <string name="Search">Search for VMs</string>
     <string name="VM1_Title">DevOps-VM – Ubuntu</string>
     <string name="VM2_Title">DB-Server – Windows</string>
     <string name="VM3_Title">WebApp-Node – Debian</string>
@@ -37,6 +37,24 @@
     <string name="edit_logo">Edit</string>
     <string name="shell_Name">Shell</string>
     <string name="VM">Virtual Machine</string>
-    <!--    <string name=""></string>-->
+    <string name="add_vm">Add VM</string>
+    <string name="add_virtual_machine">Add Virtual Machine</string>
+    <string name="select_vm_provider">Select VM Provider</string>
+    <string name="aws">Amazon Web Services (AWS)</string>
+    <string name="azure">Microsoft Azure</string>
+    <string name="google_cloud">Google Cloud Platform</string>
+    <string name="digitalocean">DigitalOcean</string>
+    <string name="go_to">Go to</string>
+    <string name="back">Back</string>
+    <string name="vm_credentials">VM Credentials</string>
+    <string name="provider_name">Provider Name</string>
+    <string name="account_information">Account Information</string>
+    <string name="api_key">API Key / Access Key</string>
+    <string name="secret_key">Secret Key</string>
+    <string name="vm_configuration">VM Configuration</string>
+    <string name="vm_name">VM Name</string>
+    <string name="region">Region</string>
+    <string name="operating_system">Operating System</string>
+    <string name="instance_type">Instance Type</string>
+    <string name="create_vm">Create Virtual Machine</string>
 </resources>
-
