@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LabExam2</string>
+    <string name="copyrights">© 2025 D Codz</string>
+    <string name="Sign_In">Sign In</string>
+    <string name="UName">Username</string>
+    <string name="Pwd">Password</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="FogetPwd">Fogot Password?</string>
+    <string name="FullNameSignUp">Full Name</string>
+    <string name="EmailSignUp">Email</string>
+    <string name="ConfirmPwd">Confirm Password</string>
+    <string name="todo">TODO</string>
+    <string name="OnBoardScn1_Title">Manage Virtual Machines</string>
+    <string name="onBoardScn1_Desc">Take control of your virtual machines from anywhere. Monitor, start, stop, and manage resources with just a few taps.</string>
+    <string name="onBoardScn2_title">Multi-Cloud Support</string>
+    <string name="onBoardScn2_desc">Connect to major cloud providers including AWS, Azure, and Google Cloud. Manage all your VMs in one unified interface.</string>
+    <string name="onBoardScn3_title">Real-Time Monitoring</string>
+    <string name="onBoardScn3_desc">Get instant notifications about your VM\'s performance, status changes, and resource usage. Stay informed wherever you are.</string>
+    <string name="APPName">VM Manager</string>
+    <string name="Search">Search</string>
+    <string name="VM1_Title">DevOps-VM – Ubuntu</string>
+    <string name="VM2_Title">DB-Server – Windows</string>
+    <string name="VM3_Title">WebApp-Node – Debian</string>
+    <string name="VM4_Title">Monitoring – CentOS</string>
+    <string name="VM5_Title">AI-Compute – Ubuntu</string>
+    <string name="VM6_Title">Backup – Windows </string>
+    <string name="VM7_Title">Analyzing – CentOS</string>
+    <string name="VM1_Location">East Us</string>
+    <string name="VM2_Location">UK South</string>
+    <string name="VM3_Location">UK North</string>
+    <string name="VM4_Location">Central India</string>
+    <string name="VM5_Location">Western Sri Lanka</string>
+    <string name="VM6_Location">Southeast Australia</string>
+    <string name="VM7_Location">West Europe</string>
+    <string name="UserDashboardTitle">User Dashboard</string>
+    <string name="UserName">John Doe</string>
+    <string name="edit_logo">Edit</string>
+    <string name="shell_Name">Shell</string>
+    <string name="VM">Virtual Machine</string>
+    <!--    <string name=""></string>-->
+</resources>
+
